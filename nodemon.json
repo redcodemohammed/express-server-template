@@ -1,0 +1,7 @@
+{
+  "env": {
+    "PORT": 3000,
+    "DEV": true,
+    "DATABASE_URL": "mongodb+srv://recipe:5N6x9YVz2eo833VS@recipe-planet.bbjy2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  }
+}
